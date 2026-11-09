@@ -28,6 +28,7 @@ You have a photo (yours, a friend's, your dog's) and want the clip where it gets
 
 - [Revid](https://revid.ai) — generation, editing and social-publishing workflows in one place.
 - [Runway](https://runwayml.com) — cinematic generated shots you direct and edit yourself; deepest control, most work.
+- [Cyanvid](https://cyanvid.com/?utm_source=aimeezhang-awesome-ai-rap-video&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text or images; credit quotes before generate.
 
 ## How to choose
 
